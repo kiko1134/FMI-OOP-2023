@@ -1,0 +1,9 @@
+# ninja log v5
+283	373	7048203017375165	week7.exe	fc24bc71d9f82a24
+7	282	7048203016519019	CMakeFiles/week7.dir/main.cpp.obj	32c5523f0c2892cb
+7	350	7044791382466739	CMakeFiles/week7.dir/Task1/Forecast.cpp.obj	834b88acff18c1f
+12	311	7048198416211639	CMakeFiles/week7.dir/Task3/Backpack.cpp.obj	34c3bf1b1f2d7de0
+2	97	7044791379937658	CMakeFiles/week7.dir/Task_0/Temperature.cpp.obj	f539951d14ceb25e
+4	341	7044989977024940	CMakeFiles/week7.dir/Task2/Queue.cpp.obj	46c20a024ac22268
+4	577	7044983626092883	CMakeFiles/week7.dir/Task2/Ticket.cpp.obj	d1a66a85808155e4
+8	99	7048198414087297	CMakeFiles/week7.dir/Task3/Item.cpp.obj	3df4ed12135e71a0

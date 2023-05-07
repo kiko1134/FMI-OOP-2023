@@ -1,0 +1,5 @@
+General name: Rambo
+Army description: I am the general and the army is very strong
+Needed financial resources: 14600
+All skills: 61
+All skills avg: 6

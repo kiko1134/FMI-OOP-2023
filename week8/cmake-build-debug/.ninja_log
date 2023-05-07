@@ -1,0 +1,6 @@
+# ninja log v5
+1	130	1683469263381401531	CMakeFiles/week8.dir/Soldier/Soldier.cpp.o	c5d55444bb8398d9
+1	707	1683469263956753617	CMakeFiles/week8.dir/General/General.cpp.o	f76519751c25e4ce
+1	709	1683469263956080684	CMakeFiles/week8.dir/Commander/Commander.cpp.o	6aab235529098aa0
+1	909	1683469264158614612	CMakeFiles/week8.dir/main.cpp.o	bb56a6e47f774499
+910	975	1683469264226780481	week8	8e832f75e46f465e
